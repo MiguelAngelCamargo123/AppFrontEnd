@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Primer pag</title>
 </head>
 <body>
 	<h1>Hola mundo</h1>
